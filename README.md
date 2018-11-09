@@ -1,2 +1,2 @@
 # DTH-CPP
-DTH services using C++
+A DTH service application designed using C++. The applications uses extensive use of C++ in-built graphics.
